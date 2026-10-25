@@ -1,0 +1,1 @@
+import e,{decompress as t}from"./brotli-decoder.js";const s=e(new URL("./brotli-decoder.wasm",import.meta.url));self.onmessage=async({data:e})=>{try{await s;const r=t(new Uint8Array(e.buffer));self.postMessage({id:e.id,buffer:r.buffer},[r.buffer])}catch(t){self.postMessage({id:e.id,error:String(t)})}};
