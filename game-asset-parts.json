@@ -1,1 +1,89 @@
-{}
+{
+  "local-games/chain-chillas/chunks/index.pck": {
+    "size": 218152768,
+    "parts": [
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part001",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part002",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part003",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part004",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part005",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part006",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part007",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part008",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part009",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part010",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part011",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part012",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.pck.part013",
+        "size": 2152768
+      }
+    ]
+  },
+  "local-games/chain-chillas/chunks/index.wasm": {
+    "size": 37695054,
+    "parts": [
+      {
+        "path": "local-games/chain-chillas/chunks/index.wasm.part001",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.wasm.part002",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/chain-chillas/chunks/index.wasm.part003",
+        "size": 1695054
+      }
+    ]
+  },
+  "local-games/drift-hunters/__external__/media.githubusercontent.com/media/EmulatorOS/gfile/main/drift/Build/ItchIO.data.unityweb": {
+    "size": 134902255,
+    "parts": [
+      {
+        "path": "local-games/drift-hunters/__external__/media.githubusercontent.com/media/EmulatorOS/gfile/main/drift/Build/ItchIO.data.unityweb.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/drift-hunters/__external__/media.githubusercontent.com/media/EmulatorOS/gfile/main/drift/Build/ItchIO.data.unityweb.part002",
+        "size": 44902255
+      }
+    ]
+  }
+}

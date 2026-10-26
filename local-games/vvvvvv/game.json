@@ -1,0 +1,1312 @@
+{
+  "slug": "vvvvvv",
+  "title": "VVVVVV",
+  "type": "HTML",
+  "developer": "Terry Cavanagh",
+  "description": "Help! Everyone has been teleported away randomly! As the heroic Captain Viridian, it's up to you to find your friends, bring them back to safety, and save the universe! VVVVVV is a platform game all about exploring one simple mechanical idea - what if you reversed gravity instead of jumping? The game is designed not to artificially gate your progress. In VVVVVV there are no locks, no power-ups, no switches, nothing to stop you progressing except the challenges themselves.",
+  "tags": [
+    "Adventure",
+    "Platformer",
+    "Puzzle",
+    "Retro",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "fb987c05-25a5-4848-890a-3b72a8155e1e",
+  "sourceVersion": "2.5",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/index.html",
+  "status": "done",
+  "sizeBytes": 73005963,
+  "assetCount": 10,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/favicon.ico",
+    "https://playobsidian.com/fonts/README.txt",
+    "https://playobsidian.com/fonts/buttons_10x10.png",
+    "https://playobsidian.com/fonts/font.png",
+    "https://playobsidian.com/fonts/buttons_8x8.png",
+    "https://playobsidian.com/fonts/font_ar.png",
+    "https://playobsidian.com/fonts/font_ko.png",
+    "https://playobsidian.com/fonts/font_ja.png",
+    "https://playobsidian.com/fonts/font_ko_license.txt",
+    "https://playobsidian.com/fonts/font_sc_tc_license.txt",
+    "https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/datafile_VVVVVV.data",
+    "https://playobsidian.com/lang/README-programmers.txt",
+    "https://playobsidian.com/fonts/font_sc.png",
+    "https://playobsidian.com/fonts/font_tc.png",
+    "https://playobsidian.com/lang/ar/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/ar/cutscenes.xml",
+    "https://playobsidian.com/lang/README-translators.txt",
+    "https://playobsidian.com/lang/ar/graphics/sprites.png",
+    "https://playobsidian.com/fonts/buttons_12x12.png",
+    "https://playobsidian.com/lang/ar/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/ar/strings.xml",
+    "https://playobsidian.com/lang/ar/roomnames.xml",
+    "https://playobsidian.com/lang/ar/numbers.xml",
+    "https://playobsidian.com/lang/ar/meta.xml",
+    "https://playobsidian.com/lang/ca/cutscenes.xml",
+    "https://playobsidian.com/lang/ca/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/ca/graphics/sprites.png",
+    "https://playobsidian.com/lang/ar/strings_plural.xml",
+    "https://playobsidian.com/lang/ca/roomnames.xml",
+    "https://playobsidian.com/lang/ca/numbers.xml",
+    "https://playobsidian.com/lang/ca/roomnames_special.xml",
+    "https://playobsidian.com/lang/ca/meta.xml",
+    "https://playobsidian.com/lang/ca/strings.xml",
+    "https://playobsidian.com/lang/cy/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/ca/strings_plural.xml",
+    "https://playobsidian.com/lang/cy/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/cy/graphics/sprites.png",
+    "https://playobsidian.com/lang/ar/roomnames_special.xml",
+    "https://playobsidian.com/lang/ca/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/cy/roomnames.xml",
+    "https://playobsidian.com/lang/cy/numbers.xml",
+    "https://playobsidian.com/lang/cy/cutscenes.xml",
+    "https://playobsidian.com/lang/de/cutscenes.xml",
+    "https://playobsidian.com/lang/de/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/cy/strings.xml",
+    "https://playobsidian.com/lang/cy/roomnames_special.xml",
+    "https://playobsidian.com/lang/de/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/de/graphics/sprites.png",
+    "https://playobsidian.com/lang/de/numbers.xml",
+    "https://playobsidian.com/lang/de/meta.xml",
+    "https://playobsidian.com/lang/de/roomnames.xml",
+    "https://playobsidian.com/lang/de/strings.xml",
+    "https://playobsidian.com/lang/de/strings_plural.xml",
+    "https://playobsidian.com/lang/cy/meta.xml",
+    "https://playobsidian.com/lang/de/roomnames_special.xml",
+    "https://playobsidian.com/lang/en/roomnames.xml",
+    "https://playobsidian.com/lang/en/meta.xml",
+    "https://playobsidian.com/lang/en/roomnames_special.xml",
+    "https://playobsidian.com/lang/en/cutscenes.xml",
+    "https://playobsidian.com/lang/eo/cutscenes.xml",
+    "https://playobsidian.com/lang/en/strings.xml",
+    "https://playobsidian.com/lang/cy/strings_plural.xml",
+    "https://playobsidian.com/lang/en/strings_plural.xml",
+    "https://playobsidian.com/lang/eo/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/eo/numbers.xml",
+    "https://playobsidian.com/lang/eo/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/eo/roomnames.xml",
+    "https://playobsidian.com/lang/eo/meta.xml",
+    "https://playobsidian.com/lang/eo/graphics/sprites.png",
+    "https://playobsidian.com/lang/eo/strings.xml",
+    "https://playobsidian.com/lang/eo/roomnames_special.xml",
+    "https://playobsidian.com/lang/es/cutscenes.xml",
+    "https://playobsidian.com/lang/es/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/eo/strings_plural.xml",
+    "https://playobsidian.com/lang/es/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/es/roomnames.xml",
+    "https://playobsidian.com/lang/es/numbers.xml",
+    "https://playobsidian.com/lang/es/meta.xml",
+    "https://playobsidian.com/lang/es/roomnames_special.xml",
+    "https://playobsidian.com/lang/es_419/cutscenes.xml",
+    "https://playobsidian.com/lang/es/strings.xml",
+    "https://playobsidian.com/lang/es/strings_plural.xml",
+    "https://playobsidian.com/lang/en/numbers.xml",
+    "https://playobsidian.com/lang/es_419/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/es_419/graphics/sprites.png",
+    "https://playobsidian.com/lang/es_419/meta.xml",
+    "https://playobsidian.com/lang/es_419/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/es_419/strings_plural.xml",
+    "https://playobsidian.com/lang/es_419/roomnames_special.xml",
+    "https://playobsidian.com/lang/es_419/numbers.xml",
+    "https://playobsidian.com/lang/es_419/strings.xml",
+    "https://playobsidian.com/lang/es_419/roomnames.xml",
+    "https://playobsidian.com/lang/es_AR/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/es_AR/graphics/sprites.png",
+    "https://playobsidian.com/lang/es_AR/cutscenes.xml",
+    "https://playobsidian.com/lang/es_AR/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/es_AR/meta.xml",
+    "https://playobsidian.com/lang/es_AR/strings.xml",
+    "https://playobsidian.com/lang/es_AR/numbers.xml",
+    "https://playobsidian.com/lang/es_AR/roomnames.xml",
+    "https://playobsidian.com/lang/es_AR/strings_plural.xml",
+    "https://playobsidian.com/lang/es_AR/roomnames_special.xml",
+    "https://playobsidian.com/lang/fa/graphics/sprites.png",
+    "https://playobsidian.com/lang/fa/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/fa/meta.xml",
+    "https://playobsidian.com/lang/fa/cutscenes.xml",
+    "https://playobsidian.com/lang/fa/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/es/graphics/sprites.png",
+    "https://playobsidian.com/lang/fa/strings.xml",
+    "https://playobsidian.com/lang/fa/numbers.xml",
+    "https://playobsidian.com/lang/fa/roomnames_special.xml",
+    "https://playobsidian.com/lang/fa/strings_plural.xml",
+    "https://playobsidian.com/lang/fa/roomnames.xml",
+    "https://playobsidian.com/lang/fr/cutscenes.xml",
+    "https://playobsidian.com/lang/fr/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/fr/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/fr/graphics/sprites.png",
+    "https://playobsidian.com/lang/fr/roomnames.xml",
+    "https://playobsidian.com/lang/fr/meta.xml",
+    "https://playobsidian.com/lang/fr/numbers.xml",
+    "https://playobsidian.com/lang/ga/cutscenes.xml",
+    "https://playobsidian.com/lang/fr/roomnames_special.xml",
+    "https://playobsidian.com/lang/fr/strings.xml",
+    "https://playobsidian.com/lang/fr/strings_plural.xml",
+    "https://playobsidian.com/lang/ga/graphics/sprites.png",
+    "https://playobsidian.com/lang/ga/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/ga/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/ga/roomnames_special.xml",
+    "https://playobsidian.com/lang/ga/numbers.xml",
+    "https://playobsidian.com/lang/ga/strings.xml",
+    "https://playobsidian.com/lang/ga/meta.xml",
+    "https://playobsidian.com/lang/it/cutscenes.xml",
+    "https://playobsidian.com/lang/it/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/ga/strings_plural.xml",
+    "https://playobsidian.com/lang/it/graphics/sprites.png",
+    "https://playobsidian.com/lang/it/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/it/strings.xml",
+    "https://playobsidian.com/lang/it/numbers.xml",
+    "https://playobsidian.com/lang/it/roomnames.xml",
+    "https://playobsidian.com/lang/it/meta.xml",
+    "https://playobsidian.com/lang/it/roomnames_special.xml",
+    "https://playobsidian.com/lang/ja/cutscenes.xml",
+    "https://playobsidian.com/lang/ja/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/ja/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/it/strings_plural.xml",
+    "https://playobsidian.com/lang/ja/graphics/sprites.png",
+    "https://playobsidian.com/lang/ja/roomnames_special.xml",
+    "https://playobsidian.com/lang/ja/meta.xml",
+    "https://playobsidian.com/lang/ja/strings.xml",
+    "https://playobsidian.com/lang/ja/numbers.xml",
+    "https://playobsidian.com/lang/ja/roomnames.xml",
+    "https://playobsidian.com/lang/ko/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/ko/cutscenes.xml",
+    "https://playobsidian.com/lang/ja/strings_plural.xml",
+    "https://playobsidian.com/lang/ga/roomnames.xml",
+    "https://playobsidian.com/lang/ko/graphics/sprites.png",
+    "https://playobsidian.com/lang/ko/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/ko/meta.xml",
+    "https://playobsidian.com/lang/ko/roomnames_special.xml",
+    "https://playobsidian.com/lang/ko/strings.xml",
+    "https://playobsidian.com/lang/ko/numbers.xml",
+    "https://playobsidian.com/lang/ko/strings_plural.xml",
+    "https://playobsidian.com/lang/nl/meta.xml",
+    "https://playobsidian.com/lang/nl/graphics/sprites.png",
+    "https://playobsidian.com/lang/nl/cutscenes.xml",
+    "https://playobsidian.com/lang/nl/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/nl/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/nl/numbers.xml",
+    "https://playobsidian.com/lang/nl/strings.xml",
+    "https://playobsidian.com/lang/nl/strings_plural.xml",
+    "https://playobsidian.com/lang/nl/roomnames.xml",
+    "https://playobsidian.com/lang/nl/roomnames_special.xml",
+    "https://playobsidian.com/lang/ko/roomnames.xml",
+    "https://playobsidian.com/lang/pl/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/pl/graphics/sprites.png",
+    "https://playobsidian.com/lang/pl/numbers.xml",
+    "https://playobsidian.com/lang/pl/meta.xml",
+    "https://playobsidian.com/lang/pl/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/pl/cutscenes.xml",
+    "https://playobsidian.com/lang/pl/roomnames.xml",
+    "https://playobsidian.com/lang/pt_BR/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/pl/strings.xml",
+    "https://playobsidian.com/lang/pl/strings_plural.xml",
+    "https://playobsidian.com/lang/pl/roomnames_special.xml",
+    "https://playobsidian.com/lang/pt_BR/cutscenes.xml",
+    "https://playobsidian.com/lang/pt_BR/roomnames.xml",
+    "https://playobsidian.com/lang/pt_BR/numbers.xml",
+    "https://playobsidian.com/lang/pt_BR/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/pt_BR/roomnames_special.xml",
+    "https://playobsidian.com/lang/pt_BR/graphics/sprites.png",
+    "https://playobsidian.com/lang/pt_BR/meta.xml",
+    "https://playobsidian.com/lang/pt_BR/strings.xml",
+    "https://playobsidian.com/lang/pt_PT/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/pt_PT/graphics/sprites.png",
+    "https://playobsidian.com/lang/pt_PT/cutscenes.xml",
+    "https://playobsidian.com/lang/pt_BR/strings_plural.xml",
+    "https://playobsidian.com/lang/pt_PT/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/pt_PT/meta.xml",
+    "https://playobsidian.com/lang/pt_PT/roomnames.xml",
+    "https://playobsidian.com/lang/pt_PT/roomnames_special.xml",
+    "https://playobsidian.com/lang/pt_PT/strings_plural.xml",
+    "https://playobsidian.com/lang/pt_PT/numbers.xml",
+    "https://playobsidian.com/lang/pt_PT/strings.xml",
+    "https://playobsidian.com/lang/ru/numbers.xml",
+    "https://playobsidian.com/lang/ru/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/ru/meta.xml",
+    "https://playobsidian.com/lang/ru/cutscenes.xml",
+    "https://playobsidian.com/lang/ru/graphics/sprites.png",
+    "https://playobsidian.com/lang/ru/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/szl/cutscenes.xml",
+    "https://playobsidian.com/lang/ru/strings_plural.xml",
+    "https://playobsidian.com/lang/szl/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/ru/roomnames.xml",
+    "https://playobsidian.com/lang/szl/meta.xml",
+    "https://playobsidian.com/lang/szl/graphics/sprites.png",
+    "https://playobsidian.com/lang/szl/numbers.xml",
+    "https://playobsidian.com/lang/szl/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/szl/strings_plural.xml",
+    "https://playobsidian.com/lang/szl/roomnames_special.xml",
+    "https://playobsidian.com/lang/szl/roomnames.xml",
+    "https://playobsidian.com/lang/szl/strings.xml",
+    "https://playobsidian.com/lang/tr/cutscenes.xml",
+    "https://playobsidian.com/lang/tr/graphics/sprites.png",
+    "https://playobsidian.com/lang/tr/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/tr/numbers.xml",
+    "https://playobsidian.com/lang/tr/roomnames.xml",
+    "https://playobsidian.com/lang/tr/meta.xml",
+    "https://playobsidian.com/lang/tr/roomnames_special.xml",
+    "https://playobsidian.com/lang/tr/strings.xml",
+    "https://playobsidian.com/lang/tr/strings_plural.xml",
+    "https://playobsidian.com/lang/uk/cutscenes.xml",
+    "https://playobsidian.com/lang/uk/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/uk/graphics/sprites.png",
+    "https://playobsidian.com/lang/uk/numbers.xml",
+    "https://playobsidian.com/lang/uk/meta.xml",
+    "https://playobsidian.com/lang/uk/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/tr/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/ru/strings.xml",
+    "https://playobsidian.com/lang/ru/roomnames_special.xml",
+    "https://playobsidian.com/lang/uk/roomnames.xml",
+    "https://playobsidian.com/lang/uk/roomnames_special.xml",
+    "https://playobsidian.com/lang/uk/strings.xml",
+    "https://playobsidian.com/lang/zh/cutscenes.xml",
+    "https://playobsidian.com/lang/uk/strings_plural.xml",
+    "https://playobsidian.com/lang/zh/meta.xml",
+    "https://playobsidian.com/lang/zh/graphics/sprites.png",
+    "https://playobsidian.com/lang/zh/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/zh/roomnames.xml",
+    "https://playobsidian.com/lang/zh/numbers.xml",
+    "https://playobsidian.com/lang/zh/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/zh_TW/cutscenes.xml",
+    "https://playobsidian.com/lang/zh/strings.xml",
+    "https://playobsidian.com/lang/zh/roomnames_special.xml",
+    "https://playobsidian.com/lang/zh/strings_plural.xml",
+    "https://playobsidian.com/lang/zh_TW/graphics/sprites.png",
+    "https://playobsidian.com/lang/zh_TW/graphics/flipsprites.png",
+    "https://playobsidian.com/lang/zh_TW/strings.xml",
+    "https://playobsidian.com/lang/zh_TW/roomnames.xml",
+    "https://playobsidian.com/lang/zh_TW/roomnames_special.xml",
+    "https://playobsidian.com/lang/zh_TW/numbers.xml",
+    "https://playobsidian.com/lang/zh_TW/meta.xml",
+    "https://playobsidian.com/lang/zh_TW/graphics/spritesmask.xml",
+    "https://playobsidian.com/lang/zh_TW/strings_plural.xml",
+    "https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/.mp3",
+    "https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/.ogg",
+    "https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/.wav"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/favicon.ico",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/README.txt",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/README.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/buttons_10x10.png",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/buttons_10x10.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/font.png",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/font.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/buttons_8x8.png",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/buttons_8x8.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/font_ar.png",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/font_ar.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/font_ko.png",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/font_ko.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/font_ja.png",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/font_ja.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/font_ko_license.txt",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/font_ko_license.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/font_sc_tc_license.txt",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/font_sc_tc_license.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/datafile_VVVVVV.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fb987c05-25a5-4848-890a-3b72a8155e1e/2.5/datafile_VVVVVV.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/README-programmers.txt",
+      "error": "HTTP 404 for https://playobsidian.com/lang/README-programmers.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/font_sc.png",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/font_sc.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/font_tc.png",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/font_tc.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ar/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ar/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ar/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ar/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/README-translators.txt",
+      "error": "HTTP 404 for https://playobsidian.com/lang/README-translators.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ar/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ar/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/fonts/buttons_12x12.png",
+      "error": "HTTP 404 for https://playobsidian.com/fonts/buttons_12x12.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ar/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ar/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ar/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ar/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ar/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ar/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ar/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ar/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ar/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ar/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ca/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ca/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ca/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ca/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ca/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ca/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ar/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ar/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ca/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ca/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ca/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ca/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ca/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ca/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ca/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ca/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ca/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ca/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/cy/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/cy/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ca/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ca/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/cy/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/cy/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/cy/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/cy/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ar/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ar/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ca/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ca/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/cy/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/cy/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/cy/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/cy/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/cy/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/cy/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/de/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/de/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/de/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/de/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/cy/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/cy/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/cy/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/cy/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/de/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/de/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/de/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/de/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/de/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/de/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/de/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/de/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/de/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/de/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/de/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/de/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/de/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/de/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/cy/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/cy/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/de/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/de/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/en/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/en/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/en/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/en/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/en/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/en/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/en/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/en/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/eo/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/eo/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/en/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/en/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/cy/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/cy/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/en/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/en/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/eo/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/eo/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/eo/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/eo/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/eo/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/eo/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/eo/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/eo/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/eo/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/eo/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/eo/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/eo/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/eo/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/eo/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/eo/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/eo/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/eo/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/eo/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_419/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_419/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/en/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/en/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_419/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_419/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_419/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_419/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_419/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_419/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_419/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_419/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_419/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_419/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_419/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_419/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_419/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_419/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_419/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_419/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_419/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_419/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_AR/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_AR/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_AR/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_AR/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_AR/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_AR/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_AR/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_AR/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_AR/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_AR/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_AR/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_AR/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_AR/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_AR/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_AR/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_AR/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_AR/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_AR/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es_AR/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es_AR/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fa/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fa/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fa/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fa/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fa/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fa/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fa/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fa/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fa/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fa/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/es/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/es/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fa/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fa/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fa/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fa/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fa/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fa/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fa/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fa/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fa/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fa/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fr/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fr/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fr/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fr/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fr/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fr/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fr/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fr/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fr/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fr/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fr/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fr/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fr/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fr/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ga/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ga/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fr/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fr/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fr/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fr/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/fr/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/fr/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ga/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ga/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ga/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ga/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ga/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ga/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ga/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ga/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ga/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ga/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ga/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ga/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ga/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ga/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/it/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/it/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/it/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/it/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ga/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ga/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/it/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/it/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/it/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/it/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/it/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/it/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/it/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/it/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/it/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/it/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/it/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/it/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/it/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/it/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ja/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ja/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ja/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ja/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ja/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ja/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/it/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/it/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ja/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ja/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ja/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ja/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ja/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ja/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ja/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ja/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ja/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ja/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ja/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ja/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ko/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ko/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ko/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ko/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ja/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ja/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ga/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ga/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ko/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ko/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ko/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ko/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ko/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ko/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ko/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ko/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ko/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ko/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ko/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ko/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ko/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ko/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/nl/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/nl/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/nl/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/nl/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/nl/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/nl/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/nl/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/nl/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/nl/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/nl/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/nl/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/nl/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/nl/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/nl/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/nl/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/nl/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/nl/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/nl/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/nl/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/nl/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/ko/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/ko/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pl/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pl/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pl/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pl/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pl/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pl/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pl/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pl/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pl/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pl/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pl/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pl/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pl/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pl/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_BR/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_BR/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pl/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pl/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pl/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pl/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pl/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pl/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_BR/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_BR/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_BR/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_BR/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_BR/numbers.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_BR/numbers.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_BR/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_BR/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_BR/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_BR/roomnames_special.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_BR/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_BR/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_BR/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_BR/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_BR/strings.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_BR/strings.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_PT/graphics/spritesmask.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_PT/graphics/spritesmask.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_PT/graphics/sprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_PT/graphics/sprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_PT/cutscenes.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_PT/cutscenes.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_BR/strings_plural.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_BR/strings_plural.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_PT/graphics/flipsprites.png",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_PT/graphics/flipsprites.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_PT/meta.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_PT/meta.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_PT/roomnames.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_PT/roomnames.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lang/pt_PT/roomnames_special.xml",
+      "error": "HTTP 404 for https://playobsidian.com/lang/pt_PT/roomnames_special.xml",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:41:52.236Z",
+  "verifiedAt": "2026-10-26T11:42:01.853Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "VVVVVV [master]",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}
