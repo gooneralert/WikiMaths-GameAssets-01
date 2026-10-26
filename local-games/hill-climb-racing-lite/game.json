@@ -1,0 +1,273 @@
+{
+  "slug": "hill-climb-racing-lite",
+  "title": "Hill Climb Racing Lite",
+  "type": "HTML",
+  "developer": "Fingersoft",
+  "description": "Hill Climb Racing Lite is a driving game where you drive through bumpy and hilly terrain. Knowing when to drive carefully and when to speed up is the key to longer runs. One wrong move and your car flips, ending your run.",
+  "tags": [
+    "Casual",
+    "Driving",
+    "Endless",
+    "Physics",
+    "Arcade",
+    "Singleplayer"
+  ],
+  "controls": [
+    {
+      "action": "Accelerate",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        },
+        {
+          "key": "KeyD",
+          "keyCode": 68
+        }
+      ]
+    },
+    {
+      "action": "Pause",
+      "keys": [
+        {
+          "key": "KeyP",
+          "keyCode": 80
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Accelerate",
+      "buttons": [
+        7
+      ]
+    },
+    {
+      "action": "Break",
+      "buttons": [
+        6
+      ]
+    },
+    {
+      "action": "Pause",
+      "buttons": [
+        1
+      ]
+    }
+  ],
+  "controllerSupport": true,
+  "sourceId": "fc64139e-b8aa-4925-ab83-869a5c8c31cc",
+  "sourceVersion": "1.3.0(85)",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/index.html",
+  "status": "done",
+  "sizeBytes": 19173576,
+  "assetCount": 62,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/dmengine_headless.wasm",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/dmengine.wasm",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/dmengine_release.wasm",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.wasm",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_pthread.wasm",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_pthread_wasm.js",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_wasm.js",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_asmjs.js",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/HCRLite_pthread.wasm",
+    "https://playobsidian.com/archive_files.json",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.ogg",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.wav",
+    "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.mp3",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://5lgx5w5cgs9pyyu8u.ay.delivery/ivt.min.js",
+    "https://5lgx5w5cgs9pyyu8u.ay.delivery/ivt-p.min.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/dmengine_headless.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/dmengine_headless.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/dmengine.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/dmengine.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/dmengine_release.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/dmengine_release.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_pthread.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_pthread.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_pthread_wasm.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_pthread_wasm.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_wasm.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_wasm.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_asmjs.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/_asmjs.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/HCRLite_pthread.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/HCRLite_pthread.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/archive_files.json",
+      "error": "HTTP 404 for https://playobsidian.com/archive_files.json",
+      "status": 404
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/51b33a2272b03c3677f1d8111da43a929fe2e43c/.js",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/51b33a2272b03c3677f1d8111da43a929fe2e43c/.js",
+      "status": 403
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/51b33a2272b03c3677f1d8111da43a929fe2e43c/com.br",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/51b33a2272b03c3677f1d8111da43a929fe2e43c/com.br",
+      "status": 403
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/51b33a2272b03c3677f1d8111da43a929fe2e43c/poki.com.br",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/51b33a2272b03c3677f1d8111da43a929fe2e43c/poki.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/fc64139e-b8aa-4925-ab83-869a5c8c31cc/1.3.0(85)/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://a.poki-cdn.com/prebid/ext.data",
+      "error": "HTTP 403 for https://a.poki-cdn.com/prebid/ext.data",
+      "status": 403
+    },
+    {
+      "url": "https://a.poki-cdn.com/prebid/prebid.js",
+      "error": "HTTP 403 for https://a.poki-cdn.com/prebid/prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://a.poki-cdn.com/prebid/events.js",
+      "error": "HTTP 403 for https://a.poki-cdn.com/prebid/events.js",
+      "status": 403
+    },
+    {
+      "url": "https://a.poki-cdn.com/prebid/ortb2.user.data",
+      "error": "HTTP 403 for https://a.poki-cdn.com/prebid/ortb2.user.data",
+      "status": 403
+    },
+    {
+      "url": "https://a.poki-cdn.com/prebid/.rubiconproject.com/a/api/fastlane.json",
+      "error": "HTTP 403 for https://a.poki-cdn.com/prebid/.rubiconproject.com/a/api/fastlane.json",
+      "status": 403
+    },
+    {
+      "url": "https://a.poki-cdn.com/prebid/user.data",
+      "error": "HTTP 403 for https://a.poki-cdn.com/prebid/user.data",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://a.poki-cdn.com/prebid/.js",
+      "error": "HTTP 403 for https://a.poki-cdn.com/prebid/.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets",
+      "error": "HTTP 403 for https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets",
+      "status": 403
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets[].data",
+      "error": "HTTP 403 for https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets[].data",
+      "status": 403
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aax2/detail.map",
+      "error": "HTTP 403 for https://c.amazon-adsystem.com/aax2/detail.map",
+      "status": 403
+    },
+    {
+      "url": "https://5lgx5w5cgs9pyyu8u.ay.delivery/ivt.min.js",
+      "error": "HTTP 404 for https://5lgx5w5cgs9pyyu8u.ay.delivery/ivt.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://5lgx5w5cgs9pyyu8u.ay.delivery/ivt-p.min.js",
+      "error": "HTTP 404 for https://5lgx5w5cgs9pyyu8u.ay.delivery/ivt-p.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://c.toolbox.aps.amazon-adsystem.com/toolbox.js",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-10-26T09:54:23.646Z",
+  "verifiedAt": "2026-10-26T09:54:33.386Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Hill Climb Racing Lite",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}

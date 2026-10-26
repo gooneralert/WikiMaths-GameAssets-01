@@ -1,0 +1,1156 @@
+{
+  "slug": "fireboy-and-watergirl-4-the-crystal-temple",
+  "title": "Fireboy & Watergirl 4: The Crystal Temple",
+  "type": "HTML",
+  "developer": "Oslo Albet",
+  "description": "Fireboy & Watergirl 4: The Crystal Temple is the fourth chapter of the classic puzzle-platformer series. Solve the puzzles, beat the clock and collect all the diamonds! Play solo or with a friend to join Fireboy and Watergirl in their fourth adventure!",
+  "tags": [
+    "2D Platformer",
+    "Casual",
+    "Co-Op",
+    "Family Friendly",
+    "Physics",
+    "Puzzle"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "c9464536-0d0e-4772-a81b-8ea21d07e12b",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/index.html",
+  "status": "done",
+  "sizeBytes": 27176903,
+  "assetCount": 352,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/icon-256x256.png",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/bower_components/requirejs/one/two/three.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/poki/geo.json",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/famobi/v1.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/famobi/api.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/freezenova/unblocked.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/coolmathgames/cmg-ads.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/crazygames/Construct3CrazySDK.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/crazygames/sdk-v1.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/api.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/yyggames/module_forgames_LayaEngineGameRS.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/playtouch/games-config.json",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/kiz10/md5.pack.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/kiz10/_apiKiz10.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/google/gpt.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/google/ima3.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/google/gtag.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/unity/get.json",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/unity/events.json",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/unity/config.json",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/p2.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/src/p2.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/package.json",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.json",
+    "https://playobsidian.com/cdn/assets/html/package.json",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser-super-storage@2.0/build/phaser-super-storage.min.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.png",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.xml",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/_small.png",
+    "https://playobsidian.com/TempleAssets.json",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.mp3",
+    "https://playobsidian.com/TempleAssets.png",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/assets/atlasses/TempleIcons.png",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/assets/atlasses/TempleIcons.json",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.jpg",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/assets/images/GameNameElements.png",
+    "https://www.coolmathgames.com/ramp.js",
+    "https://h5gamessdk.yyggames.com/sdk/YYGGames_modules/module_frogames/LayaEngineGame/.json",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/images/games235-logo.png?img.gamedistribution.com/play-black.svg",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/ping.json?https://msgrt.gamedistribution.com/collect",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+    "https://playobsidian.com/iife/index.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://pub.headerlift.com/opphb?",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/js/gameDistributionV1.3.min.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://tracker-v4.gamedock.io/v1/events-tracker/track/product/",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://tracker.gamedock.io/v1/events-tracker/track/product/",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://ana.headerlift.com/event?",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js?https://cdn.gamedock.io/gamedock-web-tracker/4.3.0/script/gamedock-sdk.min.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/config.json?https://game.api.gamedistribution.com/game/v4/get/",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js?www.google-analytics.com/analytics.js",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/logo.svg",
+    "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/images/games235-logo.png?img.gamedistribution.com/",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/p2.js",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/src/p2.js",
+    "https://ext.minijuegosgratis.com/external-host/.js?",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.xml",
+    "https://cdn.jsdelivr.net/npm/@azerion/package.json",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.json",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.png",
+    "http://imasdk.googleapis.com/js/sdkloader/.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+    "http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+    "http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+    "http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+    "http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+    "http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/myImage.png",
+    "http://server.com/explode.png",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/level1/oaktree.png",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/spinObj_01.png",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/ball.png",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/images/sprites/ball.png",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/images/sprites/level1/oaktree.png",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.png",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.txt",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.txt",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.txt",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.png",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.json",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.xml",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.json",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.xml",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.bin",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.js",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.js",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.js",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.bin",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/audiosprite.mp3",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.bin",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/Loader.atlas",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/audiosprite.ogg",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/audiosprite.m4a",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/level1.json",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/megaFont.png",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/megaFont.xml",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/player.png",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/player.json",
+    "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/player.xml",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array.iterator.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.slice.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint8-array.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.at.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.set.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.sort.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.to-locale-string.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.constructor.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint16-array.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.to-string.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.exec.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.test.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.split.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.replace.js",
+    "https://cdn.radiantmediatechs.com/rmp-vast/js/src/index.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.json.stringify.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.match.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.includes.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.error.cause.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.promise.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.symbol.description.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/web.dom-collections.iterator.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/externals/omweb-v1.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/.min.css",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.constructor.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.dot-all.js",
+    "https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/events.js",
+    "https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/ext.data",
+    "https://acdn.adnxs.com/video/outstream/omweb-v1.js",
+    "https://acdn.adnxs.com/video/outstream/+n.pubEntityId+'/skeleton.js?iasProxyPartnerId=2",
+    "https://acdn.adnxs.com/video/outstream/omid-session-client-v1.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,n.map?",
+    "https://www.gstatic.com/cast_sender.js",
+    "https://assets.msn.com/staticsb/statics/latest/js/thirdparty/ias/skeleton.js?videoId=",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,pi.encodings_pars_fragment,n.map?us(",
+    "https://cdn.jwplayer.com/libraries/jwplayer.js",
+    "https://cdn.radiantmediatechs.com/rmp/7.3.0/hls/.mp3",
+    "https://assets.msn.com/fw.js",
+    "https://assets.msn.com/skeleton.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/icon-256x256.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/icon-256x256.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/bower_components/requirejs/one/two/three.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/bower_components/requirejs/one/two/three.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/poki/geo.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/poki/geo.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/famobi/v1.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/famobi/v1.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/famobi/api.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/famobi/api.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/freezenova/unblocked.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/freezenova/unblocked.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/coolmathgames/cmg-ads.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/coolmathgames/cmg-ads.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/crazygames/Construct3CrazySDK.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/crazygames/Construct3CrazySDK.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/crazygames/sdk-v1.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/crazygames/sdk-v1.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/api.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/api.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/yyggames/module_forgames_LayaEngineGameRS.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/yyggames/module_forgames_LayaEngineGameRS.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/playtouch/games-config.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/playtouch/games-config.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/kiz10/md5.pack.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/kiz10/md5.pack.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/kiz10/_apiKiz10.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/kiz10/_apiKiz10.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/google/gpt.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/google/gpt.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/google/ima3.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/google/ima3.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/google/gtag.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/google/gtag.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/unity/get.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/unity/get.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/unity/events.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/unity/events.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/unity/config.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/unity/config.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/p2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/src/p2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/src/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/package.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/package.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser-super-storage@2.0/build/phaser-super-storage.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser-super-storage@2.0/build/phaser-super-storage.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.xml",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/_small.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/TempleAssets.json",
+      "error": "HTTP 404 for https://playobsidian.com/TempleAssets.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/TempleAssets.png",
+      "error": "HTTP 404 for https://playobsidian.com/TempleAssets.png",
+      "status": 404
+    },
+    {
+      "url": "https://tools.famobi.com/api/simple-highscore/api.js",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/assets/atlasses/TempleIcons.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/assets/atlasses/TempleIcons.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/assets/atlasses/TempleIcons.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/assets/atlasses/TempleIcons.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.jpg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/assets/images/GameNameElements.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/assets/images/GameNameElements.png",
+      "status": 404
+    },
+    {
+      "url": "https://www.coolmathgames.com/ramp.js",
+      "error": "HTTP 404 for https://www.coolmathgames.com/ramp.js",
+      "status": 404
+    },
+    {
+      "url": "https://h5gamessdk.yyggames.com/sdk/YYGGames_modules/module_frogames/LayaEngineGame/.json",
+      "error": "HTTP 404 for https://h5gamessdk.yyggames.com/sdk/YYGGames_modules/module_frogames/LayaEngineGame/.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/images/games235-logo.png?img.gamedistribution.com/play-black.svg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/images/games235-logo.png?img.gamedistribution.com/play-black.svg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/ping.json?https://msgrt.gamedistribution.com/collect",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/ping.json?https://msgrt.gamedistribution.com/collect",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js?imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/iife/index.js",
+      "error": "HTTP 404 for https://playobsidian.com/iife/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://pub.headerlift.com/opphb?",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://pub.headerlift.com/opphb?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/js/gameDistributionV1.3.min.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/js/gameDistributionV1.3.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://tracker-v4.gamedock.io/v1/events-tracker/track/product/",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://tracker-v4.gamedock.io/v1/events-tracker/track/product/",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://tracker.gamedock.io/v1/events-tracker/track/product/",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://tracker.gamedock.io/v1/events-tracker/track/product/",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://ana.headerlift.com/event?",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.json?https://ana.headerlift.com/event?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js?https://cdn.gamedock.io/gamedock-web-tracker/4.3.0/script/gamedock-sdk.min.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js?https://cdn.gamedock.io/gamedock-web-tracker/4.3.0/script/gamedock-sdk.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/config.json?https://game.api.gamedistribution.com/game/v4/get/",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/config.json?https://game.api.gamedistribution.com/game/v4/get/",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js?www.google-analytics.com/analytics.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/null.js?www.google-analytics.com/analytics.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/logo.svg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/images/games235-logo.png?img.gamedistribution.com/",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c9464536-0d0e-4772-a81b-8ea21d07e12b/1/patch/gamedistribution/patch/images/games235-logo.png?img.gamedistribution.com/",
+      "status": 404
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/outlook.com.br",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/outlook.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/hotmail.com.br",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/hotmail.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/index.js",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/index.js",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/soecket.io.js",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/soecket.io.js",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/libs/gd/hotmail.com.br",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/libs/gd/hotmail.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/logo.svg",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/logo.svg",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/libs/gd/outlook.com.br",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/libs/gd/outlook.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/libs/gd/index.js",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/libs/gd/index.js",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/libs/gd/logo.svg",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/libs/gd/logo.svg",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/libs/gd/soecket.io.js",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/libs/gd/soecket.io.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets",
+      "error": "HTTP 403 for https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets",
+      "status": 403
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets[].data",
+      "error": "HTTP 403 for https://c.amazon-adsystem.com/aax2/detail.imp[].native.request.assets[].data",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aax2/detail.map",
+      "error": "HTTP 403 for https://c.amazon-adsystem.com/aax2/detail.map",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/p2.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/src/p2.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/src/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://c.toolbox.aps.amazon-adsystem.com/toolbox.js",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://ext.minijuegosgratis.com/external-host/.js?",
+      "error": "HTTP 404 for https://ext.minijuegosgratis.com/external-host/.js?",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/package.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.trackjs.com/usage.gif",
+      "error": "HTTP 403 for https://cdn.trackjs.com/usage.gif",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.trackjs.com/fault.gif",
+      "error": "HTTP 403 for https://cdn.trackjs.com/fault.gif",
+      "status": 403
+    },
+    {
+      "url": "https://static.truex.com/js/.quantserve.com/quant.js",
+      "error": "HTTP 403 for https://static.truex.com/js/.quantserve.com/quant.js",
+      "status": 403
+    },
+    {
+      "url": "https://static.truex.com/js/.scorecardresearch.com/beacon.js",
+      "error": "HTTP 403 for https://static.truex.com/js/.scorecardresearch.com/beacon.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.intergi.com/prebid/events.js",
+      "error": "HTTP 403 for https://cdn.intergi.com/prebid/events.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.intergi.com/prebid/.js",
+      "error": "HTTP 403 for https://cdn.intergi.com/prebid/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.intergi.com/prebid/ext.data",
+      "error": "HTTP 403 for https://cdn.intergi.com/prebid/ext.data",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.intergi.com/prebid/.rubiconproject.com/a/api/fastlane.json",
+      "error": "HTTP 403 for https://cdn.intergi.com/prebid/.rubiconproject.com/a/api/fastlane.json",
+      "status": 403
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergi.com/prebid/nativeOrtbRequest.assets",
+      "error": "HTTP 403 for https://cdn.intergi.com/prebid/nativeOrtbRequest.assets",
+      "status": 403
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "http://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "error": "HTTP 403 for http://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.intergi.com/prebid/user.data",
+      "error": "HTTP 403 for https://cdn.intergi.com/prebid/user.data",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.intergi.com/prebid/ortb2.user.data",
+      "error": "HTTP 403 for https://cdn.intergi.com/prebid/ortb2.user.data",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.intergi.com/edgekit.min.js",
+      "error": "HTTP 403 for https://cdn.intergi.com/edgekit.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/UBG/lablockedgames.com/AdInPlay/a9_video_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/UBG/lablockedgames.com/AdInPlay/a9_video_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/UBG/lablockedgames.com/AdInPlay/a9_display_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/UBG/lablockedgames.com/AdInPlay/a9_display_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/Prebid.js",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/Prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/wrap.js",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/wrap.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/gecal.com.br",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/gecal.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/UBG/lablockedgames.com/cdn-ihb.33across.com/ihbloader.js",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/UBG/lablockedgames.com/cdn-ihb.33across.com/ihbloader.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/ojogos.com.br",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/ojogos.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/myImage.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/myImage.png",
+      "status": 404
+    },
+    {
+      "url": "http://server.com/explode.png",
+      "error": "HTTP 404 for http://server.com/explode.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/level1/oaktree.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/level1/oaktree.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/spinObj_01.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/spinObj_01.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/ball.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/ball.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/images/sprites/ball.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/images/sprites/ball.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/images/sprites/level1/oaktree.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/images/sprites/level1/oaktree.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.bin",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.bin",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/alien.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.bin",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/%3Ckey%3E.bin",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/audiosprite.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/audiosprite.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.bin",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/.bin",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/Loader.atlas",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/Loader.atlas",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/audiosprite.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/audiosprite.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/audiosprite.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/audiosprite.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/level1.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/level1.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/megaFont.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/megaFont.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/megaFont.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/megaFont.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/player.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/player.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/player.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/player.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/player.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/player.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array.iterator.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array.iterator.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.slice.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.slice.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint8-array.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint8-array.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.at.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.at.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.set.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.set.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.sort.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.sort.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.to-locale-string.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.to-locale-string.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.constructor.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.array-buffer.constructor.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint16-array.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.typed-array.uint16-array.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.to-string.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.to-string.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.exec.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.exec.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.test.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.test.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.split.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.split.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.replace.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.replace.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp-vast/js/src/index.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp-vast/js/src/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.json.stringify.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.json.stringify.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.match.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.match.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.includes.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.string.includes.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.error.cause.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.error.cause.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.promise.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.promise.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.streamroot.io/hlsjs-dna-wrapper/1/stable/hlsjs-dna-wrapper.js",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://cdn.streamroot.io/shakaplayer-dna-wrapper/1/stable/shakaplayer-dna-wrapper.js",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.symbol.description.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.symbol.description.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/web.dom-collections.iterator.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/web.dom-collections.iterator.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/externals/omweb-v1.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/externals/omweb-v1.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/.min.css",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.constructor.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.constructor.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.dot-all.js",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/js/core-js/modules/es.regexp.dot-all.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/events.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/events.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/ext.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/prebid.js@9.51.0/dist/ext.data",
+      "status": 404
+    },
+    {
+      "url": "https://acdn.adnxs.com/video/outstream/omweb-v1.js",
+      "error": "HTTP 404 for https://acdn.adnxs.com/video/outstream/omweb-v1.js",
+      "status": 404
+    },
+    {
+      "url": "https://acdn.adnxs.com/video/outstream/+n.pubEntityId+'/skeleton.js?iasProxyPartnerId=2",
+      "error": "HTTP 404 for https://acdn.adnxs.com/video/outstream/+n.pubEntityId+'/skeleton.js?iasProxyPartnerId=2",
+      "status": 404
+    },
+    {
+      "url": "https://acdn.adnxs.com/video/outstream/omid-session-client-v1.js",
+      "error": "HTTP 404 for https://acdn.adnxs.com/video/outstream/omid-session-client-v1.js",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/===e.data?.type&&this.#Gu.postMessage(e.data.msg,",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/===e.data?.type&&this.#Gu.postMessage(e.data.msg,",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/ext.data",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/ext.data",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/debugging-standalone.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/debugging-standalone.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,n.map?",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,n.map?",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/events.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/events.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/prebid.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://www.gstatic.com/cast_sender.js",
+      "error": "HTTP 404 for https://www.gstatic.com/cast_sender.js",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/.js",
+      "status": 403
+    },
+    {
+      "url": "https://assets.msn.com/staticsb/statics/latest/js/thirdparty/ias/skeleton.js?videoId=",
+      "error": "HTTP 404 for https://assets.msn.com/staticsb/statics/latest/js/thirdparty/ias/skeleton.js?videoId=",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,pi.encodings_pars_fragment,n.map?us(",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/three/,pi.encodings_pars_fragment,n.map?us(",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jwplayer.com/libraries/jwplayer.js",
+      "error": "HTTP 404 for https://cdn.jwplayer.com/libraries/jwplayer.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.radiantmediatechs.com/rmp/7.3.0/hls/.mp3",
+      "error": "HTTP 404 for https://cdn.radiantmediatechs.com/rmp/7.3.0/hls/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/fw.js",
+      "error": "HTTP 404 for https://assets.msn.com/fw.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/skeleton.js",
+      "error": "HTTP 404 for https://assets.msn.com/skeleton.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:45:41.379Z",
+  "verifiedAt": "2026-10-26T10:45:51.276Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Fireboy & Watergirl 4 Crystal Temple",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}
